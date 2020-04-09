@@ -1,0 +1,26 @@
+{
+    "name": "neofloss",
+    "displayName": "neofloss",
+    "description": "Dark theme with a sweet tooth",
+    "version": "0.0.1",
+    "publisher": "radiolevity",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/radiolevity/neofloss"
+    },
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Neofloss",
+                "uiTheme": "vs-dark",
+                "path": "./themes/neofloss-color-theme.json"
+            }
+        ]
+    }
+}
