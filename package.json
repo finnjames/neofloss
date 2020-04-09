@@ -8,6 +8,11 @@
       "type": "git",
       "url": "https://github.com/radiolevity/neofloss"
     },
+    "galleryBanner": {
+      "color": "#1c1c1c",
+      "theme": "dark"
+    },
+    "icon": "heart-glow.png",
     "engines": {
         "vscode": "^1.43.0"
     },
