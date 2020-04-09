@@ -2,15 +2,15 @@
     "name": "neofloss",
     "displayName": "neofloss",
     "description": "Dark theme with a sweet tooth",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "radiolevity",
     "repository": {
-      "type": "git",
-      "url": "https://github.com/radiolevity/neofloss"
+        "type": "git",
+        "url": "https://github.com/radiolevity/neofloss"
     },
     "galleryBanner": {
-      "color": "#1c1c1c",
-      "theme": "dark"
+        "color": "#1c1c1c",
+        "theme": "dark"
     },
     "icon": "heart-glow.png",
     "engines": {
