@@ -36,7 +36,7 @@
 		"editor.wordHighlightBackground": "#8ca6bd33",
 		"editor.wordHighlightStrongBackground": "#8ca6bd33",
 		"editorBracketMatch.border": "#2F2F2F",
-		"editorCursor.foreground": "#a9c4dc",
+		"editorCursor.foreground": "#ffa7d3",
 		"editorError.foreground": "#f15386",
 		"editorGroup.emptyBackground": "#262626",
 		"editorGroup.border": "#2D2D2D",
@@ -197,7 +197,7 @@
 		"titleBar.inactiveBackground": "#202020",
 		"titleBar.inactiveForeground": "#676870",
 		"walkThrough.embeddedEditorBackground": "#262626",
-		"widget.shadow": "#202020B3"
+    "widget.shadow": "#202020B3"
 	},
 	"tokenColors": [
     {

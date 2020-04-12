@@ -27,5 +27,5 @@ blue              #8ca6bd
 green             #65d4b7
   light green       #8ce0d1
 
-alert            #f15386
+alert             #f15386
 
