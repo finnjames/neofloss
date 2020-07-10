@@ -6,9 +6,9 @@ base03 (bg)       #1c1c1c
 base02            #202020
 base01            #262626
 base00            #2a2a2a
-base0             #2d2d2d
-base1             #424242
-base2  (comment)  #676767
+base0             #2d2e2f
+base1             #424344
+base2  (comment)  #676a6d
 base3  (fg)       #edc1cd
 base4  (btwhite)  #eed1d9
 
