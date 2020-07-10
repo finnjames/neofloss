@@ -32,7 +32,7 @@
     "editor.findMatchHighlightBackground": "#cdc4ff33",
     "editor.findRangeHighlightBackground": "#cdc4ff33",
     "editor.foreground": "#edc1cd",
-    "editor.lineHighlightBackground": "#2F2F2F",
+    "editor.lineHighlightBackground": "#262626",
     "editor.rangeHighlightBackground": "#262626",
     "editor.selectionBackground": "#2D2D2D",
     "editor.wordHighlightBackground": "#cdc4ff33",
