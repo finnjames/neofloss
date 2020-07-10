@@ -7,9 +7,10 @@ base02            #202020
 base01            #262626
 base00            #2a2a2a
 base0             #2d2d2d
-base1             #424345
+base1             #424242
 base2  (comment)  #676767
 base3  (fg)       #edc1cd
+base4  (btwhite)  #eed1d9
 
 # highlight colors
 
