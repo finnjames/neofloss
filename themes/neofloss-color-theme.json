@@ -102,6 +102,8 @@
     "list.hoverForeground": "#edc1cd",
     "list.inactiveSelectionBackground": "#202020",
     "list.inactiveSelectionForeground": "#edc1cd",
+    "list.warningForeground": "#f3aaf6",
+    "list.errorForeground": "#f15386",
     // notification
     "notificationCenter.border": "#202020",
     "notificationCenterHeader.background": "#1c1c1c",
@@ -149,8 +151,6 @@
     "sideBarSectionHeader.foreground": "#cdc4ff",
     "sideBarTitle.foreground": "#cdc4ff99",
 
-    "list.warningForeground": "#f3aaf6",
-    "list.errorForeground": "#f15386",
     "listFilterWidget.background": "#1c1c1c",
     "listFilterWidget.outline": "#cdc4ff",
     "listFilterWidget.noMatchesOutline": "#f15386",
