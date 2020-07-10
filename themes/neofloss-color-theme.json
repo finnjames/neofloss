@@ -6,17 +6,17 @@
     // activity bar
     "activityBar.background": "#1c1c1c",
     "activityBar.border": "#202020",
-    "activityBar.foreground": "#676a6d",
-    "activityBarBadge.background": "#cdc4ff",
+    "activityBar.foreground": "#8ca6bd",
+    "activityBarBadge.background": "#d3a7f5",
     "activityBarBadge.foreground": "#202020",
     "activityBar.activeBorder": "#1c1c1c00",
     // badge
     "badge.background": "#e37bb3",
     "badge.foreground": "#202020",
     // button
-    "button.background": "#e37bb3",
-    "button.foreground": "#202020",
-    "button.hoverBackground": "#e37bb3BB",
+    "button.background": "#a294f2",
+    "button.foreground": "#1c1c1c",
+    "button.hoverBackground": "#a294f2bb",
     // debug
     "debugExceptionWidget.background": "#262626",
     "debugExceptionWidget.border": "#2d2e2f",
@@ -38,7 +38,7 @@
     "editor.selectionBackground": "#2d2e2f",
     "editor.wordHighlightBackground": "#cdc4ff33",
     "editor.wordHighlightStrongBackground": "#cdc4ff33",
-    "editorBracketMatch.border": "#2F2F2F",
+    "editorBracketMatch.border": "#2d2e2f",
     "editorCursor.foreground": "#ffa7d3",
     "editorError.foreground": "#f15386",
     "editorGroup.emptyBackground": "#262626",
@@ -91,16 +91,16 @@
     "inputValidation.infoBackground": "#232323",
     "inputValidation.infoBorder": "#cdc4ff",
     "inputValidation.warningBackground": "#232323",
-    "inputValidation.warningBorder": "#FFD580",
+    "inputValidation.warningBorder": "#ffa6d5",
     // list
-    "list.activeSelectionBackground": "#2d2e30",
+    "list.activeSelectionBackground": "#2d2e2f",
     "list.activeSelectionForeground": "#edc1cd",
     "list.focusBackground": "#2a2b2c",
     "list.focusForeground": "#edc1cd",
     "list.highlightForeground": "#a9c4dc",
     "list.hoverBackground": "#2a2b2c",
     "list.hoverForeground": "#edc1cd",
-    "list.inactiveSelectionBackground": "#202020",		
+    "list.inactiveSelectionBackground": "#202020",
     "list.inactiveSelectionForeground": "#edc1cd",
     // notification
     "notificationCenter.border": "#202020",
@@ -108,7 +108,7 @@
     "notificationCenterHeader.foreground": "#cdc4ff",
     "notificationLink.foreground": "#e37bb3",
     "notificationToast.border": "#1c1c1c",
-    "notifications.background": "#2d2e30",
+    "notifications.background": "#2d2e2f",
     "notifications.foreground": "#FFFFFF",
 
     "panel.background": "#1c1c1c",
@@ -117,7 +117,7 @@
     "panelTitle.activeForeground": "#e37bb3",
     "panelTitle.inactiveForeground": "#676a6d",
     
-    "peekView.border": "#2d2e30",
+    "peekView.border": "#2d2e2f",
     "peekViewEditor.background": "#262626",
     "peekViewEditor.matchHighlightBackground": "#a9c4dc33",
     "peekViewResult.background": "#262626",
@@ -127,7 +127,7 @@
     "peekViewTitleDescription.foreground": "#676a6d",
     "peekViewTitleLabel.foreground": "#676a6d",
     
-    "pickerGroup.border": "#2d2e30",
+    "pickerGroup.border": "#2d2e2f",
     "pickerGroup.foreground": "#a9c4dc",
     
     "progressBar.background": "#cdc4ff",
@@ -140,7 +140,7 @@
     "editorOverviewRuler.modifiedForeground": "#76CC9AAA",
     "editorOverviewRuler.deletedForeground": "#f3aaf6AA",
     
-    "selection.background": "#2d2e30FF",
+    "selection.background": "#2d2e2fFF",
     // side bar
     "sideBar.background": "#1c1c1c",
     "sideBar.border": "#1c1c1c",
