@@ -8,7 +8,7 @@ base01            #262626
 base00            #2a2a2a
 base0             #2d2e2f
 base1             #424344
-base2  (comment)  #676a6d
+base2  (comment)  #67696a
 base3  (fg)       #edc1cd
 base4  (btwhite)  #eed1d9
 
@@ -21,9 +21,9 @@ red               #e281e5
 magenta           #bf86e9
   light magenta     #d3a7f5
 cyan              #a294f2
-  light cyan         #cdc4ff
-blue              #8ca6bd
-  light blue        #a9c4dc
+  light cyan        #cdc4ff
+blue              #84cde8
+  light blue        #a9e0f5
 green             #65d4b7
   light green       #8ce0d1
 
