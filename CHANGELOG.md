@@ -1,6 +1,6 @@
 # Change Log
 
-* 0.1.0 - color overhaul
+* 1.0.0 - highlight color overhaul and ui tweaks
 * 0.0.5 - blue color tweak
 * 0.0.4 - syntax palette retooling: pinkish -> bluish
 * 0.0.3 - cursor color update

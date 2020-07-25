@@ -23,7 +23,7 @@
     "debugToolBar.background": "#282529",
     "debugToolBar.border": "#BEA7FF",
     "diffEditor.insertedTextBackground": "#95E6CB44",
-    "diffEditor.removedTextBackground": "#D068D744",
+    "diffEditor.removedTextBackground": "#D168D744",
     "dropdown.foreground": "#D8B2DE",
     "dropdown.background": "#1C1B1D",
     "dropdown.border": "#4B3F4D",
@@ -66,7 +66,7 @@
     "editorSuggestWidget.highlightForeground": "#7497E6",
     "editorSuggestWidget.selectedBackground": "#282529",
     "editorWarning.foreground": "#7497E6",
-    "editorWhitespace.foreground": "#282529",
+    "editorWhitespace.foreground": "#4B3F4D",
     "editorWidget.background": "#282529",
     "editorWidget.border": "#BEA7FF",
     "extensionButton.prominentBackground": "#7497E6AA",
@@ -102,7 +102,7 @@
     "list.hoverForeground": "#D8B2DE",
     "list.inactiveSelectionBackground": "#282529",
     "list.inactiveSelectionForeground": "#D8B2DE",
-    "list.warningForeground": "#D068D7",
+    "list.warningForeground": "#D168D7",
     "list.errorForeground": "#DA1173",
     // notification
     "notificationCenter.border": "#282529",
@@ -136,7 +136,7 @@
     "scrollbarSlider.hoverBackground": "#FFFFFF22",
     "editorOverviewRuler.addedForeground": "#BEA7FF",
     "editorOverviewRuler.modifiedForeground": "#44D1B9AA",
-    "editorOverviewRuler.deletedForeground": "#D068D7AA",
+    "editorOverviewRuler.deletedForeground": "#D168D7AA",
     "selection.background": "#282529FF",
     // side bar
     "sideBar.background": "#1C1B1D",
@@ -175,7 +175,7 @@
     "terminal.ansiCyan": "#60C2E0",
     "terminal.ansiGreen": "#44D1B9",
     "terminal.ansiMagenta": "#8B70DA",
-    "terminal.ansiRed": "#D068D7",
+    "terminal.ansiRed": "#D168D7",
     "terminal.ansiWhite": "#D8B2DE",
     "terminal.ansiYellow": "#EA5594",
     // other terminal
@@ -291,7 +291,7 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#BEA7FF" // D068D787
+        "foreground": "#BEA7FF" // D168D787
       }
     },
     {
@@ -312,7 +312,7 @@
         "punctuation.definition.tag.end.html",
       ],
       "settings": {
-        "foreground": "#D068D787"
+        "foreground": "#D168D787"
       }
     },
     {
@@ -332,7 +332,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#D068D7"
+        "foreground": "#D168D7"
       }
     },
     {
@@ -354,7 +354,7 @@
         "source.cpp meta.block variable.other"
       ],
       "settings": {
-        "foreground": "#D068D7"
+        "foreground": "#D168D7"
       }
     },
     {
@@ -363,7 +363,7 @@
         "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#D068D7"
+        "foreground": "#D168D7"
       }
     },
     {
@@ -373,7 +373,7 @@
         "string.other.link"
       ],
       "settings": {
-        "foreground": "#D068D7"
+        "foreground": "#D168D7"
       }
     },
     {
@@ -662,7 +662,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#D068D7"
+        "foreground": "#D168D7"
       }
     },
     {
@@ -738,7 +738,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#D068D7"
+        "foreground": "#D168D7"
       }
     },
     {
@@ -749,7 +749,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#D068D7"
+        "foreground": "#D168D7"
       }
     },
     {
@@ -764,7 +764,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#D068D7"
+        "foreground": "#D168D7"
       }
     },
     {
