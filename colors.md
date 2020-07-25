@@ -15,7 +15,7 @@ base3  (btwhite)  #FAD6FF
 yellow            #EA5594
   light yellow      #FF90BF
 red               #D168D7
-  light red         #EE93F4
+  light red         #EF9CF4
 magenta           #8B70DA
   light magenta     #BEA7FF
 cyan              #60C2E0
