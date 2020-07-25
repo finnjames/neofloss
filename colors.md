@@ -2,30 +2,27 @@
 
 ## base
 
-base03 (bg)       #1c1c1c
-base02            #202020
-base01            #262626
-base00            #2a2a2a
-base0             #2d2e2f
-base1             #424344
-base2  (comment)  #67696a
-base3  (fg)       #edc1cd
-base4  (btwhite)  #eed1d9
+base03 (bg)       #1C1B1D
+base02            #282529
+base01            #322D33
+base0             #4B3F4D
+base1  (comment)  #695A6B
+base2  (fg)       #D8B2DE
+base3  (btwhite)  #FAD6FF
 
 # highlight colors
 
-yellow            #e37bb3
-  light yellow      #ffa6d5
-red               #e281e5
-  light red         #f3aaf6
-magenta           #bf86e9
-  light magenta     #d3a7f5
-cyan              #a294f2
-  light cyan        #cdc4ff
-blue              #84cde8
-  light blue        #a9e0f5
-green             #65d4b7
-  light green       #8ce0d1
+yellow            #EA5594
+  light yellow      #FF90BF
+red               #D068D7
+  light red         #EE93F4
+magenta           #8B70DA
+  light magenta     #BEA7FF
+cyan              #60C2E0
+  light cyan        #A4EAFF
+blue              #7497E6
+  light blue        #AAC4FF
+green             #44D1B9
+  light green       #9AF9E9
 
-alert             #f15386
-
+alert             #DA1173
