@@ -1,5 +1,6 @@
 # Change Log
 
+* 1.0.1 - new, custom katakana logo
 * 1.0.0 - highlight color overhaul and ui tweaks
 * 0.0.5 - blue color tweak
 * 0.0.4 - syntax palette retooling: pinkish -> bluish
