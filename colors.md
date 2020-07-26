@@ -10,7 +10,7 @@ base1  (comment)  #695A6B
 base2  (fg)       #D8B2DE
 base3  (btwhite)  #FAD6FF
 
-# highlight colors
+## highlight colors
 
 yellow            #EA5594
   light yellow      #FF90BF

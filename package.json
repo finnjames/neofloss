@@ -1,31 +1,31 @@
 {
-    "name": "neofloss",
-    "displayName": "Neofloss",
-    "description": "Dark theme with a sweet tooth",
-    "version": "1.0.0",
-    "publisher": "radiolevity",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/radiolevity/neofloss"
-    },
-    "galleryBanner": {
-        "color": "#1c1c1c",
-        "theme": "dark"
-    },
-    "icon": "heart-glow.png",
-    "engines": {
-        "vscode": "^1.43.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Neofloss",
-                "uiTheme": "vs-dark",
-                "path": "./themes/neofloss-color-theme.json"
-            }
-        ]
-    }
+  "name": "neofloss",
+  "displayName": "Neofloss",
+  "description": "Dark theme with a sweet tooth",
+  "version": "1.0.0",
+  "publisher": "radiolevity",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/radiolevity/neofloss"
+  },
+  "galleryBanner": {
+    "color": "#1c1c1c",
+    "theme": "dark"
+  },
+  "icon": "kana-logo.png",
+  "engines": {
+    "vscode": "^1.43.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neofloss",
+        "uiTheme": "vs-dark",
+        "path": "./themes/neofloss-color-theme.json"
+      }
+    ]
+  }
 }

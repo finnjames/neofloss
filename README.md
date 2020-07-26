@@ -32,4 +32,5 @@ JSON structure based on the iconic [Community Material Theme](https://marketplac
   "bracket-pair-colorizer-2.unmatchedScopeColor": "#DA1173",
 ```
 
-*heart glow by Andrejs Kirma from the Noun Project*
+## Colors
+![](showcase.png)
