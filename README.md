@@ -8,7 +8,7 @@
 
 ## About
 
-JSON structure based on the iconic [Community Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme), but with all-new sugar-coated highlighting.
+JSON structure based on the iconic [Community Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme), but with an all-new sugar-coated palette.
 
 ## Recommendations
 
