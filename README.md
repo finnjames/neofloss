@@ -14,7 +14,7 @@ JSON structure based on the iconic [Community Material Theme](https://marketplac
 
 **Font:** [Iosevka SS08](https://github.com/be5invis/Iosevka)
 
-**Icon Theme:** [Chalice Icon Theme](https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-icon-theme)
+**Icon Theme:** [Quill Icons](https://marketplace.visualstudio.com/items?itemName=cdonohue.quill-icons)
 
 **Other extensions:** [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 
