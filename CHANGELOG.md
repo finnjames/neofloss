@@ -1,5 +1,6 @@
 # Change Log
 
+- 1.1.1 - icon theme config tweak
 - 1.1.0 - included icon theme
 - 1.0.2 - banner fix
 - 1.0.1 - new, custom katakana logo

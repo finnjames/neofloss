@@ -22,7 +22,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Neofloss Icons",
+        "label": "Neofloss",
         "uiTheme": "vs-dark",
         "path": "./neofloss-color-theme.json"
       }
