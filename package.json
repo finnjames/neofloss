@@ -12,7 +12,7 @@
     "color": "#1C1B1D",
     "theme": "dark"
   },
-  "icon": "kana-logo.png",
+  "icon": "images/kana-logo.png",
   "engines": {
     "vscode": "^1.43.0"
   },
@@ -22,9 +22,16 @@
   "contributes": {
     "themes": [
       {
-        "label": "Neofloss",
+        "label": "Neofloss Icons",
         "uiTheme": "vs-dark",
-        "path": "./themes/neofloss-color-theme.json"
+        "path": "./neofloss-color-theme.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "neofloss-icons",
+        "label": "Neofloss Icons",
+        "path": "./neofloss-icon-theme.json"
       }
     ]
   }
