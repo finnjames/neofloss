@@ -713,7 +713,6 @@
       "name": "Markup - Strike",
       "scope": ["markup.strike"],
       "settings": {
-        "fontStyle": "strike",
         "foreground": "#695A6B" // todo
       }
     },
