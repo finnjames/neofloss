@@ -42,7 +42,7 @@
     "editorBracketMatch.border": "#282529",
     "editorCursor.foreground": "#AAC4FF",
     "editorError.foreground": "#DA1173",
-    "editorGroup.emptyBackground": "#282529",
+    "editorGroup.emptyBackground": "#1C1B1D",
     "editorGroup.border": "#282529",
     "editorGroupHeader.noTabsBackground": "#282529",
     "editorGroupHeader.tabsBackground": "#1C1B1D",
@@ -76,6 +76,9 @@
     "editorLightBulb.foreground": "#FF90BF",
     "focusBorder": "#695A6B8A",
     "foreground": "#D8B2DE",
+    // minimap
+    "minimap.errorHighlight": "#DA1173",
+    "minimap.selectionHighlight": "#60C2E087",
     // git
     "gitDecoration.modifiedResourceForeground": "#BEA7FF87",
     "gitDecoration.deletedResourceForeground": "#FF75BC87",
