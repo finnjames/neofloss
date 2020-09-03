@@ -1,5 +1,6 @@
 # Change Log
 
+- 1.1.4 - brightened base text color
 - 1.1.3 - Vue tag close slash fix
 - 1.1.2 - statusbar contrast increase
 - 1.1.1 - icon theme config tweak

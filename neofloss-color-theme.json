@@ -73,8 +73,9 @@
     "extensionButton.prominentBackground": "#7497E6AA",
     "extensionButton.prominentForeground": "#FFFFFF",
     "extensionButton.prominentHoverBackground": "#7497E6BB",
+    "editorLightBulb.foreground": "#FF90BF",
     "focusBorder": "#695A6B8A",
-    "foreground": "#695A6B",
+    "foreground": "#D8B2DE",
     // git
     "gitDecoration.modifiedResourceForeground": "#BEA7FF87",
     "gitDecoration.deletedResourceForeground": "#FF75BC87",
