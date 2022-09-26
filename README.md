@@ -12,11 +12,7 @@ _Dark with a sweet tooth_
 
 JSON structure based on the iconic [Community Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme), but with an all-new sugar-coated palette. Includes a recolored-to-match [Quill Icons](https://marketplace.visualstudio.com/items?itemName=cdonohue.quill-icons).
 
-## Recommendations
-
-**Font:** [Iosevka SS08](https://github.com/be5invis/Iosevka)
-
-**Other extensions:** [Customize UI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui)
+**Font Recommendation:** [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono)
 
 ## Colors
 
