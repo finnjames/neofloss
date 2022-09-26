@@ -16,21 +16,7 @@ JSON structure based on the iconic [Community Material Theme](https://marketplac
 
 **Font:** [Iosevka SS08](https://github.com/be5invis/Iosevka)
 
-**Other extensions:** [Customize UI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui), [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
-
-**User Settings:**
-
-```json
-  "bracket-pair-colorizer-2.colors": [
-    "#44D1B9",
-    "#8B70DA",
-    "#7497E6",
-    "#EA5594",
-    "#60C2E0",
-    "#D168D7"
-  ],
-  "bracket-pair-colorizer-2.unmatchedScopeColor": "#DA1173",
-```
+**Other extensions:** [Customize UI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui)
 
 ## Colors
 
