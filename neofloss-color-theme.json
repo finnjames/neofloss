@@ -45,7 +45,7 @@
     "editorBracketHighlight.foreground4": "#EA5594",
     "editorBracketHighlight.foreground5": "#60C2E0",
     "editorBracketHighlight.foreground6": "#D168D7",
-    "editorBracketHighlight.unexpectedBracket.foreground": "#DB6165",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#DA1173",
     "editorBracketMatch.border": "#282529",
     "editorCursor.foreground": "#AAC4FF",
     "editorError.foreground": "#DA1173",
